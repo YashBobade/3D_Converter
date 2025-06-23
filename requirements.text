@@ -1,0 +1,15 @@
+trimesh # Library for loading, processing, and manipulating 3D triangular meshes 
+
+numpy # Fundamental package for scientific computing with support for arrays and mathematical operations matplotlib # Plotting library for creating static, animated, and interactive visualizations 
+
+Pillow # Python Imaging Library for opening, manipulating, and saving image files 
+
+scipy # Library for scientific and technical computing, including signal processing and optimization 
+
+scikit-image # Collection of algorithms for image processing and computer vision 
+
+flask # Lightweight web framework for building web applications and APIs 
+
+flask-cors # Flask extension for handling Cross-Origin Resource Sharing (CORS) 
+
+werkzeug # WSGI utility library for handling HTTP requests and file uploads in Flask applications
